@@ -34,6 +34,30 @@ Components used: A switch and motor holder,L298N motor controller, two 16X2 I2C 
 </td>
   </tr>
 </table>
-
+<br>
+<table>
+  <tr>
+    <td><img width="500" height="500" alt="L298N motor controller" src="https://github.com/user-attachments/assets/252934df-8c96-401d-9e7d-405b1d424fcd" />
+    <br>  <div  align="center"><sub><i> Fig7:Arduino UNO</i></sub></div>
+</td>
+    <td><img width="340" height="262" alt="switches" src="https://github.com/user-attachments/assets/c67eb4f6-06e2-45d1-8c24-6db407ee5143" />
+    <br>  <div  align="center"><sub><i> Fig8:Switches</i></sub></div>
+</td>
+    <td><img width="500" height="500" alt="12v motor" src="https://github.com/user-attachments/assets/11f03ef8-2c2f-4c2d-9bdb-501b3e07719c" />
+    <br><div align="center"><sub><i> Fig9:12v DC Motor</i></sub></div>
+</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td><img width="845" height="848" alt="Switch Pinout" src="https://github.com/user-attachments/assets/3e6ceb61-fba7-4cbc-924d-9d2f9e7374a9" />
+    <br>  <div  align="center"><sub><i> Fig10:Switch Pinout</i></sub></div>
+</td>
+    <td><img width="1032" height="1390" alt="overall setup" src="https://github.com/user-attachments/assets/d12b4174-496a-42a5-a301-11c52287a0fe" />
+    <br>  <div  align="center"><sub><i> Fig11:Overall Setup</i></sub></div>
+</td>
+  </tr>
+</table>
 
 
