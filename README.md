@@ -63,5 +63,32 @@ The cam and holder for switches was made by senior.
 </table>
 <br><br>
 Drive link for working video: https://drive.google.com/drive/folders/12oiliMJjxmbsB1hyvkpnEl2Vyk8v8IB5?usp=sharing
-
-
+<br><br>
+<table>
+  <tr>
+    <td>
+    <td><img width="1920" height="1080" alt="Sch ERC check" src="https://github.com/user-attachments/assets/d3f0a813-ea32-4a3a-9abd-11ad30c4deea" />
+  <br>  <div  align="center"><sub><i> Fig12:Schematic with ERC</i></sub></div>
+</td>
+    <td><img width="1920" height="1080" alt="DRC PCB editor Switch Test Jig" src="https://github.com/user-attachments/assets/cad6b007-41d1-47ff-b016-fb7a3e25bc1a" />
+    <br>  <div  align="center"><sub><i> Fig13:PCB editor DRC check</i></sub></div>
+</td>
+    <td><img width="1920" height="1080" alt="Switch Test Jig PCB editor" src="https://github.com/user-attachments/assets/73f8d65e-6681-4380-b0a1-04810e22b2d8" />
+    <br>  <div  align="center"><sub><i> Fig14:PCB editor Full view</i></sub></div>
+</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td><img width="600" height="500" alt="3d front switch test" src="https://github.com/user-attachments/assets/d40f02a0-5478-4369-9f54-e12b53090642" />
+  <br>  <div  align="center"><sub><i> Fig15:3D Front</i></sub></div>
+</td>
+    <td><img width="600" height="500" alt="3d side switch test" src="https://github.com/user-attachments/assets/b63b57ec-ada1-4a7a-83af-2d27b660141e" />
+    <br>  <div  align="center"><sub><i> Fig16:3D Side</i></sub></div>
+</td>
+    <td><img width="600" height="500" alt="3d back switch test" src="https://github.com/user-attachments/assets/8ccc5ccd-733a-4eed-9e24-a15e96998fef" />
+    <br>  <div  align="center"><sub><i> Fig17:3D Back</i></sub></div>
+</td>
+  </tr>
+</table>
