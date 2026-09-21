@@ -66,7 +66,6 @@ Drive link for working video: https://drive.google.com/drive/folders/12oiliMJjxm
 <br><br>
 <table>
   <tr>
-    <td>
     <td><img width="1920" height="1080" alt="Sch ERC check" src="https://github.com/user-attachments/assets/d3f0a813-ea32-4a3a-9abd-11ad30c4deea" />
   <br>  <div  align="center"><sub><i> Fig12:Schematic with ERC</i></sub></div>
 </td>
