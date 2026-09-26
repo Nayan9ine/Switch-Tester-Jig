@@ -1,4 +1,6 @@
 # Switch-Tester-Jig
+<div align="right"><i>-by Nayan Ag</i></div>
+<br>
 Created a switch testing jig using Arduino UNO which tests the electrical durability of contact in scooty switches. 
 <br><br>
 This is a project that I created during my internship in a 2 wheeler EV startup company. The handle-bar switch assembly are fitted by various switches that the company imports from different vendors. Since it's a startup company we experimented by ordering from different vendors for the same switch. This project was made to test the durability of those.
